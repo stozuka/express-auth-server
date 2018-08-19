@@ -2,7 +2,7 @@
 
 #### Learning React and Redux along with "Advanced React and Redux: 2018 Edition"(https://www.udemy.com/react-redux-tutorial/).
 
-Make MongoDB up and running.
+Make MongoDB up and running, then run these commands to start server.
 
 ```
 $ git clone git@github.com:stozuka/express-auth-server.git
